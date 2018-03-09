@@ -16,7 +16,7 @@ You need to create an application to index words in text files. Basically, we'll
 
 ## Nice-to-have
 
-- If you can use Ruby or Python somewhere in your application. We understand that every language has its suitabilities, but these are the languages that we currently use in our services, so we would like to see you coding in them.
+- Would be nice if you use Ruby or Python somewhere in your application. We understand that every language has its suitabilities, but these are the languages that we currently use in our services, so we would like to see you coding in them.
 
 ## Instructions
 
@@ -32,4 +32,4 @@ While you can use any text file to test your application, we will use the files 
 
 ## Thank you!
 
-Thank you for your interesting in Mediar Solutions. We look forward to working with you!
+Thank you for your interest in Mediar Solutions. We look forward to working with you!
